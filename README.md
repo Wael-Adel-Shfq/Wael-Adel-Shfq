@@ -24,7 +24,7 @@ I'm a **Cross-Platform Developer** specializing in building high-performance web
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Wael-Adel-Shfq]&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wael-Adel-Shfq&show_icons=true&theme=radical)
 
 ---
 📫 How to reach me: waeladelshafiq@gmail.com
