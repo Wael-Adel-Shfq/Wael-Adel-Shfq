@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**Wael-Adel-Shfq/Wael-Adel-Shfq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! I'm Wael Adel 👋
 
-Here are some ideas to get you started:
+### About Me
+I'm a **Cross-Platform Developer** specializing in building high-performance web and mobile applications. I leverage the power of **Angular** and **Ionic** to create seamless user experiences, backed by **Firebase** for scalable, real-time solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 My Tech Stack
+
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
+![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+### ⚡ Professional Expertise
+* **Mobile Development:** Building iOS & Android apps using **Ionic & Capacitor**.
+* **Web Development:** Crafting complex SPAs with **Angular (RxJS & Signals)**.
+* **Serverless Backend:** Managing data & logic with **Firestore & Cloud Functions**.
+* **State Management:** Reactive programming for clean and predictable app states.
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Wael-Adel-Shfq]&show_icons=true&theme=radical)
+
+---
+📫 How to reach me: waeladelshafiq@gmail.com
