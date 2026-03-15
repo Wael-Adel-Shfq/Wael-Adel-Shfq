@@ -25,13 +25,14 @@ I'm a **Cross-Platform Developer** specializing in building high-performance web
 * **State Management:** Reactive programming for clean and predictable app states.
 
 ---
-### 💼 Professional Experience Note
+<!--### 💼 Professional Experience Note
 > **Note:** Most of my recent work is hosted in **private enterprise repositories**. I specialize in building:
 > - Real-time dashboards with Angular & Firestore.
 > - Cross-platform mobile apps for iOS/Android using Ionic.
 > - Secure serverless backends with Firebase Cloud Functions & Auth.
 
 ---
+-->
 
 <!--### 💻 Most Used Languages
 ![Wael's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wael-Adel-Shfq&layout=compact&theme=radical&hide_progress=false&count_private=true)
