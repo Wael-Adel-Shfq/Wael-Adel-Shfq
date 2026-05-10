@@ -34,11 +34,11 @@ I'm a **Cross-Platform Developer** specializing in building high-performance web
 ---
 -->
 
-### 💻 Most Used Languages
+<!--### 💻 Most Used Languages
 ![Wael's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wael-Adel-Shfq&layout=compact&theme=radical&hide_progress=false&count_private=true)
-
-### 📊 GitHub Stats
+-->
+<!--### 📊 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wael-Adel-Shfq&show_icons=true&theme=radical&count_private=true&hide_rank=true)
-
+-->
 ---
 📫 Let us contact: waeladelshafiq@gmail.com
